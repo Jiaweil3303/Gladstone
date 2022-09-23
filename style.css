@@ -20,7 +20,7 @@ iframe:hover{
 transform: scale(1.43);
 }
 iframe{
-    transition: 1s;
+    
     width: 1000px;
     height: 600;
 }
